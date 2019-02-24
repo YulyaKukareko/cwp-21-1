@@ -1,0 +1,22 @@
+{
+  "name": "@YulyaKukareko/cwp-22-1",
+  "version": "2.1.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YulyaKukareko/cwp-22-1.git"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "author": "YulyaKukareko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YulyaKukareko/cwp-22-1/issues"
+  },
+  "homepage": "https://github.com/YulyaKukareko/cwp-22-1#readme"
+}
